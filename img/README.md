@@ -1,1 +1,5 @@
-# Folder for saved pictures
+Folder for saved pictures.
+
+Format:
+
+*_i.png

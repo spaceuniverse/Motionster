@@ -2,6 +2,12 @@
 
 Simple motion detector
 
+Script will save all pictures with detected motion to `./img/` folder.
+
+Press `S` to make a screenshot manually.
+
+-----------------------------------------------------------------------
+
 **Dependencies:**
 
 - python;
